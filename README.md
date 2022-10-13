@@ -7,7 +7,7 @@ Participants:
 - Member: [Quach Vinh Quang - 20521811]
 - Member: [Nguyen Xuan Thinh - 20521967]
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: [Thuận và những người bạn](https://trello.com/b/dbwbHkV0/thu%E1%BA%ADn-v%C3%A0-nh%E1%BB%AFng-ng%C6%B0%E1%BB%9Di-b%E1%BA%A1n) [Replace by your public board later]
 
 UI / UX prototype: [here](https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1) [Replace by your public prototype later]
 
